@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="wanderbot" name="red_light_green_light" type="red_light_green_light.py"/>
+</launch>

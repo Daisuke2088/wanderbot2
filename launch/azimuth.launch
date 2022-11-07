@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="wanderbot" name="azimuth" type="azimuth.py" output="screen"/>
+</launch>

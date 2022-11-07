@@ -1,1 +1,1 @@
-# wanderbot2
+# wanderbot

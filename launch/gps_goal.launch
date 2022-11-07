@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="wanderbot" name="gps_goal" type="gps_goal.py" output="screen"/>
+</launch>

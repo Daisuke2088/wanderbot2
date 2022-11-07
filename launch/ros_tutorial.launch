@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="wanderbot" type="topic_publisher" name="topic_publisher" />
+</launch>

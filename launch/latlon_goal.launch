@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="wanderbot" name="prototype" type="prototype.py"/>
+</launch>
